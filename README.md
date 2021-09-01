@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
 </p>
-<h1 align="center">Hi 👋, I'm Sudip Mondal</h1>
-<h3 align="center">A passionate software developer from IIT Madras, India</h3>
+<h1 align="center">Hi 👋, I'm Huỳnh Mạnh Thắng</h1>
+<h3 align="center">An enthusiastic software developer from Hanoi, Vietnam</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudip-mondal-2002&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
 
